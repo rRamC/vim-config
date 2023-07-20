@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/ram/work/fs/data-management/gradle'
+let g:netrw_dirhist_1='/Users/ram/Downloads/backup-4.10.2022_16-26-16_ramcn/psql'
